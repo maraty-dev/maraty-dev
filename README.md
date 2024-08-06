@@ -5,5 +5,5 @@
 ## 📫 Contact
 
 - **Email:** maraty-dev@proton.me
-- **Discord:** .maraty.
 - **Telegram:** [@maraty_dev](https://t.me/maraty_dev)
+- **Discord:** .maraty.
